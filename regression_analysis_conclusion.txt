@@ -1,0 +1,4 @@
+CONCLUSIONS
+----------------------------
+Does this model perform better or worse on out-of-sample data as compared to in-sample data?
+The out-of-sample RMSE is lower than the in-sample RMSE. RMSE is typically lower for training data, but is higher in this case.
