@@ -1,8 +1,12 @@
 CONCLUSIONS
 ----------------------------
 Based on your time series analysis, would you buy the yen now?
-Based on this analysis, the YEN will get stronger, so it's a good investment oportunity----------------------------
+Based on this analysis, the YEN will get stronger, so it's a good investment oportunity
+----------------------------
 Is the risk of the yen expected to increase or decrease?
-It is expected that the risk (volatility) will increase, so others factors should be addressed before investment----------------------------
+It is expected that the risk (volatility) will increase, so others factors should be addressed before investment
+----------------------------
 Based on the model evaluation, would you feel confident in using these models for trading?
-Based on this model, I'm not confident to use it because the model is not a good fit due the p > 0.05. Which should be p < 0.05 to be a good fitAlso, before trading the CAD/JPY always take into account Canada's and Japan's respective economic policies and unemployment rates, exports and imports statics and GDP growth
+Based on this model, I'm not confident to use it because the model is not a good fit due the p > 0.05. Which should be p < 0.05 to be a good fit
+Also, before trading the CAD/JPY always take into account Canada's and Japan's respective economic policies and unemployment rates,
+ exports and imports statics and GDP growth
